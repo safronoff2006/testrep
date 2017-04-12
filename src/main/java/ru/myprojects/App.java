@@ -18,6 +18,6 @@ public class App
         
         
         System.out.println( "---------OK---------");
-        System.out.println( "Конец3");
+        System.out.println( "Конец4");
     }
 }
